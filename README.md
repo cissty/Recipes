@@ -1,1 +1,1 @@
-learning html, css, git and github.
+learning html, css, git and github. to get better at these, need more practise
