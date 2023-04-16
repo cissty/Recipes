@@ -30,11 +30,10 @@ a{
     display:flex;
     flex-direction: row;
     align-items: center;
-    justify-content: center;
-    margin-left: 60px;
-    margin-top: 60px;
+    justify-content: space-between;
+    margin-left: 0px;
+    margin-top: 0px;
     border-radius: 10px;
-    gap: 30px;
  }
 .border h1{
     color: #fff;
@@ -47,8 +46,9 @@ a{
 }
 
 .line{
-    flex: 1;
+    display: flex;
     transition: background-color 0.5s;
+   
 }
 
 .line:hover{
@@ -74,3 +74,4 @@ a{
 .fa-solid{
     color: rgb(131, 10, 243);
 }
+
